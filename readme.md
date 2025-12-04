@@ -177,7 +177,7 @@ Amikor a jelszó láthatóvá válik, a szörnyek szemhéja lecsukódik, mintha 
 
 ## 📝 Licenc
 
-Ez egy személyes projekt demó céljából.
+MIT
 
 ## 👨‍💻 Készítette
 
